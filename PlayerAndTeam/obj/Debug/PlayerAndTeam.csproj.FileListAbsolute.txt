@@ -1,0 +1,7 @@
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\PlayerAndTeam\PlayerAndTeam\bin\Debug\PlayerAndTeam.exe.config
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\PlayerAndTeam\PlayerAndTeam\bin\Debug\PlayerAndTeam.exe
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\PlayerAndTeam\PlayerAndTeam\bin\Debug\PlayerAndTeam.pdb
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.csproj.AssemblyReference.cache
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.exe
+C:\Users\abdul\Music\Practice Exercises\simplilearn\SimplilearnPracticeProject\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.pdb
